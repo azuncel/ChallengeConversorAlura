@@ -7,4 +7,4 @@ Programa que permite elegir el conversor con pantallas de JOptionPane e ingresar
 
 ![image](https://github.com/azuncel/ChallengeConversorAlura/assets/116027025/490a47df-b843-448f-8c88-1dd3d5a31384)
 
-El ejecutable se encuentra dentro de la carpeta EJECUTABLE.
+El ejecutable se encuentra dentro de la carpeta EJECUTABLE. ConversorChallenge/Ejecutable
