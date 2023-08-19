@@ -1,5 +1,5 @@
 # ChallengeConversorAlura
-Conversor de divisas y temperatura en Java
+Conversor de divisas y temperatura en Java.
 
 Challenge de Conversor de divisas y temperatura en Java, desafío de ORACLE NEXT EDUCATION.
 
